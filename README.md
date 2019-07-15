@@ -32,7 +32,7 @@ git clone https://github.com/hsuanhauliu/girvan-newman-community-detection.git
 Follow the command below to run the program.
 
 ```
-python3 main.py [threshold_value] [input_file] [betweenness_output_file] [community_output_file]]
+python3 main.py [threshold_value] [input_file] [betweenness_output_file] [community_output_file]
 ```
 
 Example:
